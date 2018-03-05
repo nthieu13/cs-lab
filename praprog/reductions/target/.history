@@ -1,0 +1,6 @@
+runMain reductions.ParallelCountChangeRunner
+exit
+runMain reductions.ParallelCountChangeRunner
+      countChange(money, coins)
+runMain reductions.ParallelCountChangeRunner
+submit nthieu13@gmail.com GR1xqHGHDCbp2GEw
