@@ -1,0 +1,12 @@
+
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¦«…şÿÿÿÿ8¦º¼ßŸ,
+{squid:S1067"ZReduce the number of conditional operators (4) used in the expression (maximum allowed 3).(§·Èÿÿÿÿÿ8¦º¼ßŸ,
+U
+squid:S106";Replace this usage of System.out or System.err by a logger.(°•Ş8¦º¼ßŸ,
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(âã¶¶ıÿÿÿÿ8¦º¼ßŸ,
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(¹œı8¦º¼ßŸ,
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(­‹™Ğ8¦º¼ßŸ,
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(×•œ²8¦º¼ßŸ,
