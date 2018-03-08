@@ -1,12 +1,0 @@
-
-Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ÿ°¼ßŸ,
-msquid:S1192"QDefine a constant instead of duplicating this literal "Â  Â  </entry>\n" 5 times.(Ñ‡¨²8Ÿ°¼ßŸ,
-Asquid:S1166"%Either log or rethrow this exception.(”ı¾8Ÿ°¼ßŸ,
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(Ù©È±8Ÿ°¼ßŸ,
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(²¡ïõ8Ÿ°¼ßŸ,
-–squid:S1192"uDefine a constant instead of duplicating this literal "Â Â Â Â Â  Â  <message>Application ended</message>\n" 3 times.(ŸÀëÌşÿÿÿÿ8Ÿ°¼ßŸ,
-Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ÿ°¼ßŸ,
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(¡Í—³8Ÿ°¼ßŸ,
-y
-squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(±×ºíúÿÿÿÿ8Ÿ°¼ßŸ,

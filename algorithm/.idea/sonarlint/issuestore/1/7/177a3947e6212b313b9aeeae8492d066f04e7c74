@@ -1,8 +1,0 @@
-
-[squid:S1118":Add a private constructor to hide the implicit public one.(ÀÜÏÄùÿÿÿÿ8·­¼ßŸ,
-y
-squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(÷´À½ùÿÿÿÿ8·­¼ßŸ,
-Tsquid:S1197"8Move the array designator from the variable to the type.(ºóé·8·­¼ßŸ,
-V
-squid:S106";Replace this usage of System.out or System.err by a logger.(ôº–È8·­¼ßŸ,
-{squid:S1067"ZReduce the number of conditional operators (4) used in the expression (maximum allowed 3).(âœıÿÿÿÿ8·­¼ßŸ,

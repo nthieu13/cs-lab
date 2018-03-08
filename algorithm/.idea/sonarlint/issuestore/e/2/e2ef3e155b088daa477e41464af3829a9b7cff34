@@ -1,5 +1,0 @@
-
-[
-squid:S106";Replace this usage of System.out or System.err by a logger.(Ë¼¸ÿÿÿÿÿ8Ç«¼ßŸ,
-[squid:S1118":Add a private constructor to hide the implicit public one.(ÿ‘Õ»şÿÿÿÿ8Ç«¼ßŸ,
-Usquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(¿Â³—øÿÿÿÿ8Ç«¼ßŸ,

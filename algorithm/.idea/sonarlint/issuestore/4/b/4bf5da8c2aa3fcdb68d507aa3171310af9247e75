@@ -1,11 +1,0 @@
-
-8squid:S1643"Use a StringBuilder instead.(àİ±8‚¥¼ßŸ,
-Ysquid:S1197"8Move the array designator from the variable to the type.(±ş«ıÿÿÿÿ8‚¥¼ßŸ,
-t
-squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(»³½‹8‚¥¼ßŸ,
-[
-squid:S106";Replace this usage of System.out or System.err by a logger.(‚áÒüÿÿÿÿ8‚¥¼ßŸ,
-[
-squid:S106";Replace this usage of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿ8‚¥¼ßŸ,
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(­ØÓ‹8‚¥¼ßŸ,
-Vsquid:S1118":Add a private constructor to hide the implicit public one.(Ü¸¨÷8‚¥¼ßŸ,
